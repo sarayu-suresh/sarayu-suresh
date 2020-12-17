@@ -9,11 +9,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/s_r_y_u_._._/
-[linkedin]: https://www.linkedin.com/in/sarayu-suresh-4bb9511b2/
+<a href = 'https://www.instagram.com/s_r_y_u_._._/'><img src = 'img/instagram.png' width='22px'></a>
+<a href = 'https://www.linkedin.com/in/sarayu-suresh-4bb9511b2/'><img src = 'img/linkedin.png' width='22px'></a>
 
 <br/><br/>
 <details>
