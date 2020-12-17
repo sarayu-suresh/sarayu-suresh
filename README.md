@@ -13,8 +13,18 @@ __
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/s_r_y_u_._._/
-[linkedin]: https://www.linkedin.com/in/sarayu-suresh-4bb9511b2/
-<br/><br/><br/>
-[![Github stats](https://github-readme-stats.vercel.app/api?username=sarayu-suresh&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarayu-suresh&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<br/>
+
+<details>
+<summary>
+  <b>Github Stats</b>
+</summary>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sarayu-suresh&show_icons=true&theme=gotham" alt="Sarayu Suresh | Stats" />
+</details>
+<br/>
+<details>
+<summary>
+  <b>Languages Used</b>
+</summary>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarayu-suresh&show_icons=true&theme=gotham" />
+</details>
