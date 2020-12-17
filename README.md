@@ -17,8 +17,5 @@ __
 [linkedin]: https://www.linkedin.com/in/sarayu-suresh-4bb9511b2/
 <br/><br/><br/>
 <details>
-<summary>📊 
-  <b><i>Github Stats</i></b>
-</summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sarayu-suresh&show_icons=true&theme=gotham" alt="Sarayu Suresh | Stats" />
 </details>
