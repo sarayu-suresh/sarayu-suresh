@@ -18,7 +18,7 @@
 </summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sarayu-suresh&show_icons=true&theme=gotham" alt="Sarayu Suresh | Stats" />
 </details>
-<br/>
+
 <details>
 <summary>
   <b>Languages Used</b>
