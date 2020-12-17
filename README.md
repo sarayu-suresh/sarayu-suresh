@@ -16,8 +16,7 @@ __
 [instagram]: https://www.instagram.com/s_r_y_u_._._/
 [linkedin]: https://www.linkedin.com/in/sarayu-suresh-4bb9511b2/
 
-<br/>
-
+<br/><br/>
 <details>
 <summary>
   <b>Github Stats</b>
