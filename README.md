@@ -6,7 +6,6 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I know something but I am not the best in something
 
-__
 
 ### Connect with me:
 
