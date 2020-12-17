@@ -16,6 +16,5 @@ __
 [instagram]: https://www.instagram.com/s_r_y_u_._._/
 [linkedin]: https://www.linkedin.com/in/sarayu-suresh-4bb9511b2/
 <br/><br/><br/>
-<details>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sarayu-suresh&show_icons=true&theme=gotham" alt="Sarayu Suresh | Stats" />
-</details>
+[![Github stats](https://github-readme-stats.vercel.app/api?username=sarayu-suresh&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sarayu-suresh&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
