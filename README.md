@@ -9,9 +9,8 @@
 
 ### Connect with me:
 
-<a href = 'https://www.instagram.com/s_r_y_u_._._/'><img src = 'img/instagram.png' width='22px'></a>&nbsp;
+<a href = 'https://www.instagram.com/s_r_y_u_._._/'><img src = 'img/instagram.png' width='22px'></a>&nbsp;&nbsp;
 <a href = 'https://www.linkedin.com/in/sarayu-suresh-4bb9511b2/'><img src = 'img/linkedin.png' width='22px'></a>
-
 <br/>
 <details>
 <summary>
