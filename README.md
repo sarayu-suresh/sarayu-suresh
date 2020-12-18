@@ -25,3 +25,5 @@
 </summary>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarayu-suresh&show_icons=true&theme=gotham" />
 </details>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sarayu-suresh" alt="Sarayu Suresh" /> </p>
