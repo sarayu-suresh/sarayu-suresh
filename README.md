@@ -1,7 +1,7 @@
 ### Hey there! I'm Sarayu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### Currently pursuing B.Tech in CSE at [RIT, Kottayam](http://www.rit.ac.in/).
 
-- 🌱 I’m currently learning Tailwind CSS
+- 🌱 I’m currently learning Kotlin
 - 💬 Ask me about Game Dev, Web Dev and blah blah blah :P
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I know something but I am not the best in something
