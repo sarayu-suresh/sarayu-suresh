@@ -1,35 +1,45 @@
-### Hey there! I'm Sarayu <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-### Currently pursuing B.Tech in CSE at [RIT, Kottayam](http://www.rit.ac.in/).
+![sarayu](https://user-images.githubusercontent.com/64719883/181301124-dd0e3e3f-8f6e-48c6-9664-8538b5f38e7c.gif)
 
-- 🌱 I’m currently exploring MERN stack 
-- 💬 Ask me about Game Dev, Web Dev and blah blah blah :P
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I know something but I am not the best in something
+### 👨🏻‍💻 &nbsp;About Me
 
-### Connect with me:
+🌱 I’m currently working on Flask projects \
+💬 Ask me about Game Dev, Web Dev and blah blah blah :P \
+😄 Pronouns: She/Her \
+⚡ Fun fact: I know something but I am not the best in something \
+📄 Check out my website [sarayu.co](https://sarayu.co) for more details about me. I'm open to feedback and suggestions!
 
-<a href = 'https://www.instagram.com/the_sarayu/'><img src = 'img/instagram.png' width='22px'></a>&nbsp;&nbsp;
-<a href = 'https://www.linkedin.com/in/sarayu-suresh-4bb9511b2/'><img src = 'img/linkedin.png' width='22px'></a>
-<br/>
-### Languages and Tools:
-<p align="left"> 
-  <img align="left" alt="HTML5" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-  <img align="left" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-  <img align="left" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-  <img align="left" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-  <img align="left" alt="flask" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" />
-  <img align="left" alt="Java" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
-  <img align="left" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" />
-  <img align="left" alt="C++" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" />
-  <img align="left" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-  <img align="left" alt="VScode" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<br/>
-<br/>
-<details>
-<summary>
-  <b>Github Stats</b>
-</summary>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sarayu-suresh&show_icons=true&theme=gotham" alt="Sarayu Suresh | Stats" />
-</details>
+### 🛠 &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=sass&logoColor=#b61572)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
+![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;\
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/sarayu-suresh">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=sarayu-suresh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sarayu-suresh&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://sarayu.co"><img src="https://img.shields.io/badge/-sarayu.co-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/sarayu-suresh/"><img src="https://img.shields.io/badge/-Sarayu%20Suresh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:sarayusuresh88@gmail.com"><img src="https://img.shields.io/badge/-sarayusuresh88@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://instagram.com/the_sarayu"><img src="https://img.shields.io/badge/-@the_sarayu-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://twitter.com/sarayu_suresh"><img src="https://img.shields.io/badge/-@sarayu_suresh-1877F2?style=flat&logo=Twitter&logoColor=white"/></a>
+</p>
