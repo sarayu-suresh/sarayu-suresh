@@ -6,7 +6,7 @@
 💬 Ask me about Game Dev, Web Dev and blah blah blah :P \
 😄 Pronouns: She/Her \
 ⚡ Fun fact: I know something but I am not the best in something \
-📄 Check out my website [sarayu.co](https://sarayu.co) for more details about me. I'm open to feedback and suggestions!
+📄 Check out my website [sarayu.co](https://sarayu.co) for more details!
 
 ### 🛠 &nbsp;Tech Stack
 
