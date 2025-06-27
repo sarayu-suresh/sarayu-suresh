@@ -6,7 +6,7 @@
 💬 Ask me about Game Dev, Web Dev and blah blah blah :P \
 😄 Pronouns: She/Her \
 ⚡ Fun fact: I know something but I am not the best in something \
-📄 Check out my website [sarayu.co](https://sarayu.co) for more details!
+📄 Check out my website [sarayusuresh.in](https://sarayusuresh.in) for more details!
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -37,7 +37,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://sarayu.co"><img src="https://img.shields.io/badge/-sarayu.co-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://sarayusuresh.in"><img src="https://img.shields.io/badge/-sarayu.co-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/sarayu-suresh/"><img src="https://img.shields.io/badge/-Sarayu%20Suresh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:sarayusuresh88@gmail.com"><img src="https://img.shields.io/badge/-sarayusuresh88@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://instagram.com/the_sarayu"><img src="https://img.shields.io/badge/-@the_sarayu-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
