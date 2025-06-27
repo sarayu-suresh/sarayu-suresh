@@ -1,4 +1,4 @@
-![sarayu](https://user-images.githubusercontent.com/64719883/181301124-dd0e3e3f-8f6e-48c6-9664-8538b5f38e7c.gif)
+
 
 ### 👨🏻‍💻 &nbsp;About Me
 
